@@ -1,0 +1,17 @@
+{
+    "name": "karanguleria/helpers",
+    "description": "It includes the helper functions genrally nedded for every project.",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Karan Guleria",
+            "email": "himekaranguleria@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Helpers\\": "src"}
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
